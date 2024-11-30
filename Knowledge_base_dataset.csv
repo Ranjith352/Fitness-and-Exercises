@@ -1,0 +1,63 @@
+Category,Location,Experience Level,Exercise,Sets,Reps,Equipment
+Core Strengthening,Home,Beginner,Plank Hold,3,20 seconds,None
+Core Strengthening,Home,Beginner,Glute Bridge,3,21 seconds,None
+Core Strengthening,Home,Beginner,Bird-Dog,3,10 per side,None
+Core Strengthening,Home,Intermediate,Side Plank,3,30 seconds per side,None
+Core Strengthening,Home,Intermediate,Bicycle Crunches,4,31 seconds per side,None
+Core Strengthening,Home,Intermediate,Russian Twists,4,15 per side,None
+Core Strengthening,Home,Advanced,Plank with Leg Lift,4,30 seconds,None
+Core Strengthening,Home,Advanced,Superman Hold,4,15 reps,None
+Core Strengthening,Home,Advanced,V-ups,5,15,None
+Core Strengthening,Gym,Beginner,Cable Crunch,3,15 reps,Cable Machine
+Core Strengthening,Gym,Beginner,Seated Leg Raise,3,12,None
+Core Strengthening,Gym,Beginner,Medicine Ball Russian Twist,3,10 per side,Medicine Ball
+Core Strengthening,Gym,Intermediate,Weighted Decline Sit-up,4,11 per side,"Decline Bench, Weights"
+Core Strengthening,Gym,Intermediate,Hanging Leg Raise,4,15 reps,Pull-up Bar
+Core Strengthening,Gym,Intermediate,Cable Woodchopper,4,12 per side,Cable Machine
+Core Strengthening,Gym,Advanced,Weighted Plank,5,30 seconds,Weights
+Core Strengthening,Gym,Advanced,Ab Rollouts,5,12,Ab Roller
+Core Strengthening,Gym,Advanced,Decline Bench V-ups,5,15,Decline Bench
+Core Strengthening,Gym,Advanced,Decline Sit-up,5,15,Decline Bench
+Back Exercises,Home,Beginner,Superman,3,10,None
+Back Exercises,Home,Beginner,Reverse Snow Angels,3,12,None
+Back Exercises,Home,Beginner,Wall Angels,3,15 reps,None
+Back Exercises,Home,Intermediate,Resistance Band Lat Pull-downs,4,15 reps,Resistance Band
+Back Exercises,Home,Intermediate,Bent-Over Resistance Band Rows,4,15 reps,Resistance Band
+Back Exercises,Home,Intermediate,Dolphin Kicks,4,15 reps,None
+Back Exercises,Home,Advanced,Single-Leg Deadlift,5,12,Dumbbells
+Back Exercises,Gym,Beginner,Lat Pull-down,3,15 reps,Lat Pulldown Machine
+Back Exercises,Gym,Beginner,Seated Cable Rows,3,12,Cable Machine
+Back Exercises,Gym,Intermediate,Pull-ups,4,15 reps,None
+Back Exercises,Gym,Intermediate,T-bar Row,4,12,T-bar
+Back Exercises,Gym,Advanced,Weighted Pull-ups,5,8,Weighted Vest
+Back Exercises,Gym,Advanced,Rack Pulls,5,15 reps,Barbell
+Back Exercises,Gym,Advanced,Chest-Supported Row,5,15 reps,Bench
+Legs Exercises,Home,Beginner,Bodyweight Squats,3,10,None
+Legs Exercises,Home,Beginner,Lunges,3,8-10 per leg,None
+Legs Exercises,Home,Beginner,Glute Bridges,3,12,None
+Legs Exercises,Home,Intermediate,Bulgarian Split Squats,4,10 per leg,Dumbbells
+Legs Exercises,Home,Intermediate,Single-leg Glute Bridge,4,12,None
+Legs Exercises,Home,Intermediate,Jump Squats,4,12,None
+Legs Exercises,Gym,Beginner,Leg Press,3,12,Leg Press Machine
+Legs Exercises,Gym,Beginner,Smith Machine Squats,3,10,Smith Machine
+Legs Exercises,Gym,Intermediate,Barbell Squat,4,10,Barbell
+Legs Exercises,Gym,Intermediate,Leg Extensions,4,10,Leg Extension Machine
+Arm Exercises,Gym,Advanced,Squat with Chains,5,8,Chains
+Arm Exercises,Home,Beginner,Bicep Curl,3,12,Dumbbells
+Arm Exercises,Home,Beginner,Tricep Dips,3,12,None
+Arm Exercises,Home,Intermediate,Resistance Band Hammer Curl,4,12,Resistance Band
+Arm Exercises,Home,Intermediate,Diamond Push-ups,4,10,None
+Arm Exercises,Home,Advanced,Single-Arm Push-up,5,15 reps,None
+Arm Exercises,Gym,Beginner,Cable Tricep Pushdown,3,12,Cable Machine
+Arm Exercises,Gym,Beginner,Dumbbell Bicep Curl,3,15 reps,Dumbbells
+Arm Exercises,Gym,Intermediate,Skull Crushers,4,15 reps,Barbell
+Arm Exercises,Gym,Intermediate,Barbell Curl,4,15 reps,Barbell
+Shoulder Exercises,Gym,Advanced,Weighted Dips,5,8,Dip Bar
+Shoulder Exercises,Home,Beginner,Pike Push-ups,3,10,None
+Shoulder Exercises,Home,Intermediate,Arm Circles,3,15 per side,None
+Shoulder Exercises,Home,Intermediate,Lateral Raise with Resistance Band,4,12,Resistance Band
+Shoulder Exercises,Home,Advanced,Handstand Holds,4,20 seconds,None
+Shoulder Exercises,Gym,Beginner,Dumbbell Shoulder Press,3,12,Dumbbells
+Shoulder Exercises,Gym,Intermediate,Overhead Press,4,15 reps,Barbell
+Shoulder Exercises,Gym,Advanced,Clean and Press,5,8,Barbell
+Shoulder Exercises,Gym,Advanced,Push Press,5,15 reps,Barbell
